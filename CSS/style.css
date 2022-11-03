@@ -1,0 +1,411 @@
+/*stylings for index.html */ 
+#hello
+        { font-family:"Crimson Text";
+        text-shadow: 2px 2px 2px black;
+        text-align: left;
+        font-size: 70px;
+        border-color: black;
+        color: #FF4763;
+        outline-color: black;
+       padding: 0px;
+        margin: 0px;
+        margin-top: 200px;
+        margin-bottom: 40px;
+        margin-left: 70px;}
+
+        
+#Iam
+        { font-family: "Crimson Text"; text-align: left;
+       font-size: 40px;
+        color: #FF4763;
+        text-shadow: 2px 2px 2px black;
+        margin: 0px;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left:70px;}
+
+
+#passion
+       {font-family: "EB Garamond"; text-align: left;
+        font-size: 40px;
+        text-align: center;
+        text-underline-position:below;
+        color: #FF4763;
+        text-shadow: 2px 2px 2px black;
+        margin-top: 30px;
+        margin-bottom: 50px;}
+
+
+#learn
+        {font-family: EB Garamond;
+         text-align: center;
+         text-shadow: 2px 2px 2px white;
+         margin-top: -35px;}
+#learn a { color: black;}
+#learn :hover{color: #FF4763;}
+        
+
+        
+body  
+        { background-color: lavenderblush;
+        text-shadow: 2px 2px 2px black;
+        text-align: left;
+        font-size: 20px;
+        color:#FF4763;
+        padding: 0px;
+        margin: 0px;
+        margin-top: -40px;
+        margin-left: 70px;
+        }
+
+
+
+.image 
+{ display:block;
+ }
+#silhouette { 
+margin-left: 55%;
+}
+        
+
+
+
+/* styling for gitignore.html */
+
+
+
+
+#portfoliohead 
+    { color: #FF4763;
+    text-align: center;
+    outline-color: black;
+    text-shadow: 2px 2px 2px black;
+    font-family: "EB Garamond";
+    font-size: 100px;
+    margin-top: 50px;
+        
+    }
+    
+
+
+#portfoliobody 
+    
+    { background-color: lavenderblush;
+    text-align: center;
+    color: #FF4763;
+    outline-color: black;
+    text-shadow: 2px 2px 2px black;
+    font-family: "EB Garamond";
+    font-size: 35px;
+        text-align: center;}
+
+
+
+#center 
+{ display:block;
+ margin-left:38%;
+margin-right:60%; }
+    
+
+
+html{ 
+box-sizing: border-box;
+font-size:10px; 
+}
+  
+
+
+.grid-child
+{ border: 5px solid black;
+padding: 10px; 
+color:black;
+background-color: white;
+
+    
+    
+}  
+
+.grid-child > a {  
+ color:#FF4763;
+}
+.grid-container  {  
+display: grid;
+border-style: dotted;
+grid-template-columns: 33.3% 33.3% 33.3%;
+font-size: 40px;
+font-family: "Josefin Sans";
+margin:30px; 
+text-align: center;
+
+
+
+}
+
+#list1 { 
+    margin-top: 0px;
+    margin-bottom: 50px;
+text-align: center;
+font-size: 50px;
+font-family: "Quicksand"}
+
+
+
+
+      
+         
+/*stylings for contact.html*/
+  
+        
+
+
+.design {
+    color: #FF4763;
+    text-shadow: 2px 2px 2px  white;
+        font-family:"Josefin Sans";
+        font-size: 25px;
+        text-align: center; 
+       margin-top: 200px;} 
+         
+         
+
+
+
+.content {
+color: black;
+text-shadow: 2px 2px 2px white;
+font-family: "Quicksand";
+text-align:justify;
+font-size: 20px;
+            
+        }
+
+
+
+
+#cell { 
+display:block;
+}
+    
+      
+.submit { 
+font-family:"Crimson Text";
+font-weight: 1000;
+outline: black;
+color: #FF4763;
+background-color: white;
+height:50px;
+font-weight: 300;
+font-size: 20px;
+}
+
+
+
+/*about.html*/
+
+
+
+
+.parent-1 { 
+flex-direction:row;
+justify-content:center;
+text-shadow: none;
+font-family: "Josefin Sans";
+font-size: 30px;
+outline-color: black;
+text-shadow: 2px 2px 2px black;
+color: #FF4763;
+
+
+}
+
+.parent-1 div { 
+
+align-self: center;
+border: 10px solid #ccc;
+padding: 10px;
+justify-content:center;
+border-style:groove;
+border-color:  #FF4763;
+
+
+
+}
+
+.item-1 
+{ width: 25%; 
+margin-top: 10%;}
+
+.item-2 
+{width: 25%;
+margin-top: -260px;
+margin-left: 40%;
+}
+
+.item-3 
+{width: 25%;
+margin-left: 40%;
+margin-top: 5%}
+
+.item-4 
+{ width:25%;
+margin-left: 40%;
+margin-top:5%}
+
+.item-5 
+{width: 25%;
+margin-left: 70%;
+margin-top: -26%;}
+
+
+
+
+
+
+
+.parent-2 { 
+flex-direction:row;
+justify-content:center;
+text-shadow: 2px 2px 2px black;
+font-family: "Josefin Sans";
+font-size: 30px;
+color: blueviolet;
+
+
+}
+
+.parent-2 div { 
+
+align-self: center;
+border: 10px solid #ccc;
+padding: 10px;
+justify-content:center;
+border-style:groove;
+border-color: blueviolet;
+
+
+
+}
+
+.item-7 
+{ width: 25%; 
+margin-top: 25%;}
+
+.item-8 
+{width: 25%;
+margin-top: -260px;
+margin-left: 40%;
+}
+
+.item-9 
+{width: 25%;
+margin-left: 40%;
+margin-top: 5%}
+
+.item-10 
+{ width:25%;
+margin-left: 40%;
+margin-top:5%}
+
+.item-11 
+{width: 25%;
+margin-left: 70%;
+margin-top: -16%;}
+
+.item-12 
+{ width:25%; 
+margin-top: -30%;
+margin-left: 70%;}
+
+
+
+
+
+
+/*nav bar*/
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: #FF4763;
+  font-family: "Quicksand";
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color:#FF4763 ;
+}
+
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: rebeccapurple;
+font-family:"Crimson Text";
+text-shadow: 0px 0px 0px;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #FF4763;
+}
+
+
+nav { 
+position:absolute;
+top: 0;
+width: 15%;
+margin: 0%;
+padding:0;
+
+}
+
+/*footer*/
+
+
+#aboutfooter
+{  width: 50%;
+    margin: auto;
+}
+
+footer
+{ text-align: center;
+color: black;
+text-shadow: 2px 2px 2px white;
+font-family: "Quicksand";
+font-size: 20px;
+margin-top:600px;
+    
+
+
