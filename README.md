@@ -36,7 +36,8 @@ Technologies Used
 
 
 
-Hosting link:https://github.com/jordan-rexroad/portfolio-page
-Git hub link:https://github.com/jordan-rexroad/portfolio-page.git
+Hosting link:https://jordan-rexroad.github.io/portfolio-page/
+Git hub link:https://github.com/jordan-rexroad/portfolio-page
+
 
 
