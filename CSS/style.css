@@ -209,6 +209,7 @@ html{
 /*about.html*/
 
 
+
 main { 
   margin-top: 200px;
 }
@@ -224,7 +225,7 @@ main {
   outline-color: black;
   text-shadow: 1px 1px 1px black;
   color: #FF4763;
-  
+
 
 
 }
@@ -248,11 +249,21 @@ main {
 
 .aboutme {
   font-size: 55px;
+  border: 10px solid #ccc;
+  padding: 25px;
+  border-style:groove;
+  border-color:  #FF4763;
 } 
 
 .skills {
   font-size: 55px;
   color: blueviolet;
+  font-size: 55px;
+  border: 10px solid #ccc;
+  padding: 25px;
+  border-color: blueviolet;
+  border-style:groove;
+
 }
 
 
